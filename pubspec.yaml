@@ -1,0 +1,72 @@
+name: tempat_wisata
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.4.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/candi.jpg
+    - assets/images/candi2.jpg
+    - assets/images/candi3.jpg
+    - assets/images/candi4.jpg
+    - assets/images/makam.jpg
+    - assets/images/makam2.jpg
+    - assets/images/makam3.jpg
+    - assets/images/makam4.jpg
+    - assets/images/masjid.jpg
+    - assets/images/masjid2.jpg
+    - assets/images/masjid3.jpg
+    - assets/images/masjid4.jpg
+    - assets/images/kampung.jpg
+    - assets/images/kampung2.jpg
+    - assets/images/kampung3.jpg
+    - assets/images/kampung4.jpg
+    - assets/images/tridharma.jpg
+    - assets/images/tridharma2.jpg
+    - assets/images/tridharma3.jpg
+    - assets/images/tridharma4.jpg
+    - assets/images/alun.jpg
+    - assets/images/alun2.jpg
+    - assets/images/alun3.jpg
+    - assets/images/alun4.jpg
+    - assets/images/waduk.jpg
+    - assets/images/waduk2.jpg
+    - assets/images/waduk3.jpg
+    - assets/images/waduk4.jpg
+    - assets/images/cinet.jpg
+    - assets/images/cinet2.jpg
+    - assets/images/cinet3.jpg
+    - assets/images/cinet4.jpg
+    - assets/images/banyu.jpg
+    - assets/images/banyu2.jpg
+    - assets/images/banyu3.jpg
+    - assets/images/banyu4.jpg
+    - assets/images/pinus.jpg
+    - assets/images/pinus2.jpg
+    - assets/images/pinus3.jpg
+    - assets/images/pinus4.jpg
+    
+
+  fonts:
+    - family: Lobster
+      fonts:
+        - asset: assets/fonts/Lobster-Regular.ttf
+
+    - family: Oxygen
+      fonts:
+        - asset: assets/fonts/Oxygen-Regular.ttf
+        - asset: assets/fonts/Oxygen-Bold.ttf
